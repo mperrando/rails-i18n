@@ -1,5 +1,4 @@
 Rails Locale Data Repository
-o
 ============================
 
 [![Gem Version](https://badge.fury.io/rb/rails-i18n.svg)](http://badge.fury.io/rb/rails-i18n)
